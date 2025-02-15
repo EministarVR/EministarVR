@@ -1,36 +1,49 @@
 # 👋 Hi, I'm Nael-Emin Ben Oun (aka **EministarVR**)
 
 Welcome to my GitHub profile! 🌟  
-I'm a **14-year-old coder** with a passion for **coding**, **web development**, and **gaming**. Currently, I'm diving into **Java** and **JavaScript**, exploring exciting opportunities to grow as a developer.
+I'm a **14-year-old developer** with a passion for **coding, game development**, and **tech innovations**.  
+Currently, I'm diving deep into **Java** and **JavaScript**, creating unique projects and expanding my skills.
 
 ---
 
 ## 🛠️ What I Do
-- 🌐 Designing and building **websites** with creative and functional designs using **HTML** and **CSS**.
-- 🤖 Developing **Discord bots** to automate tasks and enhance communities.
-- 🎮 Working as a **Developer** in a **Minecraft server team**, contributing to the creation of immersive gameplay experiences.
-- 💡 Learning **Java** and **JavaScript** to expand my programming toolkit.
-- 🚀 Experimenting with new ideas and bringing projects to life.
+- 🚀 **Minecraft Plugin Development** – Bringing custom features to life!
+- 🤖 **Discord Bots** – Automating tasks and creating interactive experiences.
+- 🌐 **Web Development** – Designing creative and functional websites.
+- 🎮 **Game Development** – Exploring Java, C++, C#, and JavaScript for future game projects.
+- 💡 Always learning and experimenting with new ideas!
 
 ---
 
-## 🌟 My Interests
-- **Web Development**: I love creating visually appealing and user-friendly websites.
-- **Discord Bots**: Coding custom bots for unique features and fun interactions.
-- **Minecraft**: Combining creativity and coding to enhance the Minecraft community.
-- **Learning**: Constantly exploring new tools, languages, and techniques to improve my skills.
+## 🔥 GitHub Stats  
+![EministarVR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=EministarVR&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EministarVR&layout=compact&theme=radical)
 
 ---
 
-## 🌱 My Mission
-I aim to **learn, create, and share**. Every project I work on reflects my curiosity, determination, and creativity. Whether it's a website, a bot, or a Minecraft feature, I strive to bring ideas to life with precision and care.
+## 🏆 Achievements  
+![Trophies](https://github-profile-trophy.vercel.app/?username=EministarVR&theme=radical)
 
 ---
 
-## 📫 Connect With Me
-- Discord: **EministarVR**
-- Check out my projects below and feel free to contribute or provide feedback!
+## 🌟 My Interests  
+- **Minecraft Development** 🏗️ – Creating immersive gameplay experiences.
+- **Game Development** 🎮 – Designing and coding unique game mechanics.
+- **Web Design** 🌐 – Crafting visually stunning and user-friendly websites.
+- **Tech & Innovation** 🛠️ – Always looking for the next big project.
 
 ---
 
-> "Coding is like magic – each line brings something new to life."
+## 🐍 GitHub Activity  
+![Snake animation](https://github.com/EministarVR/EministarVR/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect With Me  
+- 💬 Discord: **EministarVR**  
+- 🚀 Check out my projects below and feel free to contribute or provide feedback!
+
+---
+
+> "Coding is like magic – each line brings something new to life." ✨
