@@ -15,6 +15,16 @@ Currently, I'm diving deep into **Java** and **JavaScript**, creating unique pro
 
 ---
 
+## 🖥️ Languages & Tools  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Lua](https://img.shields.io/badge/Lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white)  
+
+---
+
 ## 🔥 GitHub Stats  
 ![EministarVR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EministarVR&theme=radical)  
