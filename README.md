@@ -37,8 +37,7 @@ Currently, I'm diving deep into **Java** and **JavaScript**, creating unique pro
 ---
 
 ## 🔥 GitHub Stats  
-![EministarVR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=EministarVR&theme=radical)  
+![EministarVR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EministarVR&layout=compact&theme=radical)
 
 ---
