@@ -18,7 +18,7 @@ Currently, I'm diving deep into **Java** and **JavaScript**, creating unique pro
 ## 🖥️ Languages & Tools  
  
 
-### 🚀 Absolutely FW This:
+### 🚀 Absolutely Love This:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -26,7 +26,7 @@ Currently, I'm diving deep into **Java** and **JavaScript**, creating unique pro
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![Lua](https://img.shields.io/badge/Lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white)  
 
-### 🛠️ I Basically FW These:
+### 🛠️ I am Basically Using These Everyday:
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
