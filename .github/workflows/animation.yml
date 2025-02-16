@@ -12,25 +12,28 @@ jobs:
   generate-animation:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: 📥 Repository klonen
         uses: actions/checkout@v3
 
-      - name: Generate SVG Animation
+      - name: 🎨 SVG-Animation generieren
         run: |
           mkdir -p animations
-          echo '<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">' > animations/coding.svg
-          echo '<rect width="400" height="200" fill="black"/>' >> animations/coding.svg
-          echo '<text x="20" y="40" font-size="20" fill="lime">System.out.println("Hello, World!");</text>' >> animations/coding.svg
-          echo '<text x="20" y="80" font-size="20" fill="cyan">public static void main(String[] args) {</text>' >> animations/coding.svg
-          echo '<text x="20" y="120" font-size="20" fill="yellow">    System.out.println("Loading...");</text>' >> animations/coding.svg
-          echo '<animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>' >> animations/coding.svg
-          echo '</svg>' >> animations/coding.svg
+          cat > animations/coding.svg <<EOF
+          <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+            <rect width="400" height="200" fill="black"/>
+            <text x="20" y="40" font-size="20" fill="lime">System.out.println("Hello, World!");</text>
+            <text x="20" y="80" font-size="20" fill="cyan">public static void main(String[] args) {</text>
+            <text x="20" y="120" font-size="20" fill="yellow">    System.out.println("Loading...");</text>
+            <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
+          </svg>
+          EOF
 
-      - name: Commit and Push Animation
+      - name: 🔄 Änderungen committen und pushen
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add animations/coding.svg
-          git commit -m "Update coding animation" || exit 0
-          git push
-
+          git commit -m "Update coding animation" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
