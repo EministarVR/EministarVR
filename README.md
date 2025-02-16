@@ -56,6 +56,7 @@ Currently, I'm diving deep into **Java** and **JavaScript**, creating unique pro
 ---
 
 ## 🐍 Amimation  
+![Coding Animation](animations/coding.svg)
 
 
 ---
