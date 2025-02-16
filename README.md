@@ -55,8 +55,8 @@ Currently, I'm diving deep into **Java** and **JavaScript**, creating unique pro
 
 ---
 
-## 🐍 GitHub Activity  
-![Snake animation](https://github.com/EministarVR/EministarVR/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Amimation  
+
 
 ---
 
