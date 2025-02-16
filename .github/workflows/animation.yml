@@ -2,11 +2,11 @@ name: Update Coding Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Alle 6 Stunden ausführen
+    - cron: "0 */6 * * *"  # Läuft alle 6 Stunden
   push:
     branches:
       - main
-  workflow_dispatch:  # Ermöglicht manuellen Start
+  workflow_dispatch:  # Manuelles Starten möglich
 
 jobs:
   generate-animation:
@@ -21,9 +21,11 @@ jobs:
           cat > animations/coding.svg <<EOF
           <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
             <rect width="400" height="200" fill="black"/>
-            <text x="20" y="40" font-size="20" fill="lime">System.out.println("Hello, World!");</text>
-            <text x="20" y="80" font-size="20" fill="cyan">public static void main(String[] args) {</text>
-            <text x="20" y="120" font-size="20" fill="yellow">    System.out.println("Loading...");</text>
+            <text x="20" y="40" font-size="20" fill="lime">public class Hello {</text>
+            <text x="20" y="70" font-size="20" fill="cyan">    public static void main(String[] args) {</text>
+            <text x="20" y="100" font-size="20" fill="yellow">        System.out.println("Coding...");</text>
+            <text x="20" y="130" font-size="20" fill="cyan">    }</text>
+            <text x="20" y="160" font-size="20" fill="lime">}</text>
             <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
           </svg>
           EOF
@@ -35,5 +37,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add animations/coding.svg
-          git commit -m "Update coding animation" || echo "No changes to commit"
-          git push origin main || echo "No changes to push"
+          git commit -m "Update coding animation" || echo "Keine Änderungen zu committen"
+          git push origin main || echo "Keine Änderungen zu pushen"
