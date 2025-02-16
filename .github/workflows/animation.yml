@@ -2,7 +2,7 @@ name: Update Coding Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Läuft alle 6 Stunden
+    - cron: "0 */6 * * *"  # Alle 6 Stunden
   push:
     branches:
       - main
@@ -17,7 +17,7 @@ jobs:
 
       - name: 🎨 SVG-Animation generieren
         run: |
-          mkdir -p animations
+          mkdir -p animations  # Hier wird der Ordner animations erstellt
           cat > animations/coding.svg <<EOF
           <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
             <rect width="400" height="200" fill="black"/>
@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add animations/coding.svg
-          git commit -m "Update coding animation" || echo "Keine Änderungen zu committen"
+          git add animations/coding.svg  # SVG-Datei hinzufügen
+          git commit -m "Update coding animation" || echo "Keine Änderungen"
           git push origin main || echo "Keine Änderungen zu pushen"
