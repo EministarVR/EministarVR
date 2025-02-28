@@ -48,12 +48,6 @@ Currently, I'm diving deep into **Java** and **JavaScript**, creating unique pro
 
 ---
 
-## 🐍 Amimation  
-![Coding Animation](animations/coding.svg)
-
-
----
-
 ## 📫 Connect With Me  
 - 💬 Discord: **EministarVR**  
 - 🚀 Check out my projects below and feel free to contribute or provide feedback!
