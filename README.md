@@ -24,7 +24,8 @@ Currently, I'm diving deep into **Java** and **JavaScript**, creating unique pro
 
 
 ### 🛠️ I am Basically Using These Everyday:
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white) ![WinSCP](https://img.shields.io/badge/WinSCP-%23000000.svg?style=plastic&logo=winscp&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-%232F3136.svg?style=plastic&logo=termius&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%23000000.svg?style=plastic&logo=astro&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white)
+
 
 
 
