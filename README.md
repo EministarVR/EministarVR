@@ -70,5 +70,17 @@ Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzuset
 🚀 Check meine Projekte unten aus – Feedback & Contributions sind immer willkommen!  
 
 ---
+## Dein EministarVR
+```
+ _____          _       _     _             _   _______ 
+|  ___|        (_)     (_)   | |           | | | | ___ \
+| |__ _ __ ___  _ _ __  _ ___| |_ __ _ _ __| | | | |_/ /
+|  __| '_ ` _ \| | '_ \| / __| __/ _` | '__| | | |    / 
+| |__| | | | | | | | | | \__ \ || (_| | |  \ \_/ / |\ \ 
+\____/_| |_| |_|_|_| |_|_|___/\__\__,_|_|   \___/\_| \_|
+                                                        
+                                                        
+```
 
+---
 > *„Code ist wie Magie – jede Zeile bringt etwas Neues zum Leben.“* ✨
