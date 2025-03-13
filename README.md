@@ -1,59 +1,74 @@
-# 👋 Hi, I'm Nael-Emin Ben Oun (aka **EministarVR**)
+# 👋 Hey, ich bin Nael-Emin Ben Oun (aka **EministarVR**)
 
-Welcome to my GitHub profile! 🌟  
-I'm a **14-year-old developer** with a passion for **coding, game development**, and **tech innovations**.  
-Currently, I'm diving deep into **Java** and **JavaScript**, creating unique projects and expanding my skills.
-
----
-
-## 🛠️ What I Do
-- 🚀 **Minecraft Plugin Development** – Bringing custom features to life!
-- 🤖 **Discord Bots** – Automating tasks and creating interactive experiences.
-- 🌐 **Web Development** – Designing creative and functional websites.
-- 🎮 **Game Development** – Exploring Java, C++, C#, and JavaScript for future game projects.
-- 💡 Always learning and experimenting with new ideas!
+Willkommen auf meinem GitHub-Profil! 🌟  
+Ich bin ein **14-jähriger Entwickler** mit einer Leidenschaft für **Coding, Game Development** und **Tech-Innovationen**.  
+Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzusetzen und meine Skills zu erweitern.
 
 ---
 
-## 🖥️ Languages & Tools  
- 
-
-### 🚀 Absolutely Love This:
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-%23000080.svg?style=plastic&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%232B7BBF.svg?style=plastic&logo=typescript&logoColor=white)
-
-
-
-### 🛠️ I am Basically Using These Everyday:
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white) ![WinSCP](https://img.shields.io/badge/WinSCP-%23000000.svg?style=plastic&logo=winscp&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-%232F3136.svg?style=plastic&logo=termius&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%23000000.svg?style=plastic&logo=astro&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white)
-
-
-
+## 🚀 Was ich mache
+- 🔧 **Minecraft Plugin Entwicklung** – Eigene Features & Gameplay-Erweiterungen.  
+- 🤖 **Discord Bots** – Automatisierte Systeme & interaktive Erlebnisse.  
+- 🌍 **Web Development** – Moderne, kreative Webseiten mit aktuellen Technologien.  
+- 🎮 **Game Development** – Mit **Java, C++, C# & JavaScript** eigene Spiele entwickeln.  
+- 🔥 **Always Learning** – Ich probiere ständig neue Technologien aus!  
 
 ---
 
-## 🔥 GitHub Stats  
-![EministarVR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EministarVR&layout=compact&theme=radical)
+## 🛠️ Meine Technologien  
+
+### ❤️ Lieblings-Sprachen:
+<p align="left">
+    <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-%232B7BBF.svg?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Lua-%23000080.svg?style=flat&logo=lua&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Frameworks:
+<p align="left">
+    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WinSCP-%23000000.svg?style=flat&logo=winscp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Termius-%232F3136.svg?style=flat&logo=termius&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Astro-%23000000.svg?style=flat&logo=astro&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white"/>
+</p>
 
 ---
 
-## 🏆 Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=EministarVR&theme=radical)
+## 📊 GitHub Stats  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EministarVR&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
-## 🌟 My Interests  
-- **Minecraft Development** 🏗️ – Creating immersive gameplay experiences.
-- **Game Development** 🎮 – Designing and coding unique game mechanics.
-- **Web Design** 🌐 – Crafting visually stunning and user-friendly websites.
-- **Tech & Innovation** 🛠️ – Always looking for the next big project.
+## 🏆 Erfolge  
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=EministarVR&theme=radical"/>
+</p>
 
 ---
 
-## 📫 Connect With Me  
-- 💬 Discord: **EministarVR**  
-- 🚀 Check out my projects below and feel free to contribute or provide feedback!
+## 🌟 Interessen  
+- 🏗️ **Minecraft Entwicklung** – Coole Plugins & eigene Features.  
+- 🎮 **Game Development** – Kreative Spielmechaniken & Projekte.  
+- 🌐 **Web Design & Development** – Moderne, ansprechende Webseiten.  
+- 🚀 **Tech & Innovation** – Ständig neue Dinge entdecken und ausprobieren.  
 
 ---
 
-> "Coding is like magic – each line brings something new to life." ✨
+## 📫 Erreichbarkeit  
+💬 **Discord:** EministarVR  
+🚀 Check meine Projekte unten aus – Feedback & Contributions sind immer willkommen!  
+
+---
+
+> *„Code ist wie Magie – jede Zeile bringt etwas Neues zum Leben.“* ✨
