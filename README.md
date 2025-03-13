@@ -19,7 +19,8 @@ Currently, I'm diving deep into **Java** and **JavaScript**, creating unique pro
  
 
 ### 🚀 Absolutely Love This:
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-%23000080.svg?style=plastic&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-%23000080.svg?style=plastic&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%232B7BBF.svg?style=plastic&logo=typescript&logoColor=white)
+
 
 
 ### 🛠️ I am Basically Using These Everyday:
