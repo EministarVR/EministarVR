@@ -44,7 +44,9 @@ Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzuset
 ## Das lerne ich gerade
 
 <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=openjdk&logoColor=white"/>
+
 ---
+
 ## 📊 GitHub Stats  
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical" height="165"/>
