@@ -20,7 +20,7 @@ Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzuset
 ### ❤️ Lieblings-Sprachen:
 <p align="left">
     
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
