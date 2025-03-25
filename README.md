@@ -19,7 +19,7 @@ Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzuset
 
 ### ❤️ Lieblings-Sprachen:
 <p align="left">
-    <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=openjdk&logoColor=white"/>
+    
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
@@ -41,7 +41,10 @@ Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzuset
 </p>
 
 ---
+## Das lerne ich gerade
 
+<img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=openjdk&logoColor=white"/>
+---
 ## 📊 GitHub Stats  
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical" height="165"/>
