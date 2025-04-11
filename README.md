@@ -88,4 +88,4 @@ Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzuset
 </picture>
 </div>
 ---
-> *„Code ist wie Magie – jede Zeile bringt etwas Neues zum Leben.“* ✨
+>*„Code ist wie Magie – jede Zeile bringt etwas Neues zum Leben.“* ✨
