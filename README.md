@@ -75,6 +75,13 @@ Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzuset
 🚀 Check meine Projekte unten aus – Feedback & Contributions sind immer willkommen!  
 
 ---
+<div align="center">
+  <a href="https://discord.com/users/928021462386892830" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/489812661249507360?borderRadius=5px&animated=true&bg=273849&showDisplayName=true" alt="Discord Status">
+  </a>
+</div>
+
+---
 ## Dein 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
