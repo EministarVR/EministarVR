@@ -15,32 +15,36 @@ Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzuset
 
 ---
 
-## 🛠️ Meine Technologien  
+## 🧰 Technologien & Tools
 
-### ❤️ Lieblings-Sprachen:
+### 💻 Sprachen, die ich liebe:
 <p align="left">
-    
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-%232B7BBF.svg?style=flat&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Lua-%23000080.svg?style=flat&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-%23000080.svg?style=flat&logo=lua&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Frameworks:
+### 🧪 Frameworks, Plattformen & Tools:
 <p align="left">
-    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/WinSCP-%23000000.svg?style=flat&logo=winscp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Termius-%232F3136.svg?style=flat&logo=termius&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Astro-%23000000.svg?style=flat&logo=astro&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spigot-%23FF8800.svg?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fabric-%23E7E7E7.svg?style=flat&logo=data:image/svg+xml;base64,...&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astro-%23000000.svg?style=flat&logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WinSCP-%23000000.svg?style=flat&logo=winscp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Termius-%232F3136.svg?style=flat&logo=termius&logoColor=white"/>
 </p>
 
 ---
+
 ## Das lerne ich gerade
 
 <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=openjdk&logoColor=white"/>
