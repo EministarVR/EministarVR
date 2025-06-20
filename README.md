@@ -45,9 +45,11 @@ Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzuset
 
 ---
 
-## Das lerne ich gerade
-
-<img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=openjdk&logoColor=white"/>
+## 📚 Aktuell am Lernen
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-Deep Dive-%23007396.svg?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COBOL-Incoming-%23FFCC00.svg?style=flat&logoColor=black"/>
+</p>
 
 ---
 
