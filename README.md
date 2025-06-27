@@ -52,14 +52,6 @@
 
 ---
 
-## 📚 Aktuell am Lernen
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-Deep_Dive-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/COBOL-Why_not_lol-009DC4?style=flat-square&logoColor=white"/>
-</p>
-
-
----
 
 <table>
   <tr>
