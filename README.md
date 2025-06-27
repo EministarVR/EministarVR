@@ -29,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
-<img src="https://iconduck.com/icons/download/20131/cobol/icon.png" alt="COBOL" height="40"/>
+<img src="https://iconduck.com/icons/download/20131/cobol/icon.png" alt="COBOL" height="40"/>](https://www.loc.gov/item/2002699016/)
 
 
 <br><br>
