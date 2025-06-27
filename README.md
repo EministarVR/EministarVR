@@ -8,7 +8,7 @@
 </div>
 
 
-
+---
 
 
 🎮 *Minecraft Plugin Developer*  
@@ -46,6 +46,8 @@
 
 
 </div>
+
+
 ---
 
 ## 📚 Aktuell am Lernen
