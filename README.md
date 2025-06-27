@@ -29,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
-<img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/40/009DC4/external-cobol-programming-and-coding-flatart-icons-flat-flatarticons.png" alt="COBOL"/>
+
 
 <br><br>
 
