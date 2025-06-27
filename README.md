@@ -8,32 +8,41 @@
 
 ## 🛠️ Technologien & Tools
 
-### 💬 Sprachen
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/COBOL-%23009DC4.svg?style=for-the-badge&logoColor=white"/>
 
-### ⚙️ Tools & Frameworks
-<img src="https://img.shields.io/badge/Spigot-%23FF8800.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fabric-%2314141A.svg?style=for-the-badge&logo=curseforge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+### 💬 Sprachen, die ich nutze
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COBOL-009DC4?style=flat-square&logoColor=white"/>
+</p>
+
+### ⚙️ Frameworks & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Spigot-FF8800?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fabric-141414?style=flat-square&logo=curseforge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ## 📚 Aktuell am Lernen
-- 🧠 Java (Deep Dive)  
-- 😂 COBOL (Why not lol)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-Deep_Dive-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COBOL-Why_not_lol-009DC4?style=flat-square&logoColor=white"/>
+</p>
+
 
 ---
 
