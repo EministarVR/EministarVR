@@ -1,17 +1,8 @@
 # 👋 Hey, ich bin Nael-Emin Ben Oun (aka **EministarVR**)
 
-Willkommen auf meinem GitHub-Profil! 🌟  
-Ich bin ein **14-jähriger Entwickler** mit einer Leidenschaft für **Coding, Game Development** und **Tech-Innovationen**.  
-Derzeit fokussiere ich mich auf **Java & JavaScript**, um coole Projekte umzusetzen und meine Skills zu erweitern.
+*Minecraft Plugin Developer | Frontend & Backend Developer*
+*Aktiv bei YukiCraft als Serverleitung & Developer*
 
----
-
-## 🚀 Was ich mache
-- 🔧 **Minecraft Plugin Entwicklung** – Eigene Features & Gameplay-Erweiterungen.  
-- 🤖 **Discord Bots** – Automatisierte Systeme & interaktive Erlebnisse.  
-- 🌍 **Web Development** – Moderne, kreative Webseiten mit aktuellen Technologien.  
-- 🎮 **Game Development** – Mit **Java, C++, C# & JavaScript** eigene Spiele entwickeln.  
-- 🔥 **Always Learning** – Ich probiere ständig neue Technologien aus!  
 
 ---
 
