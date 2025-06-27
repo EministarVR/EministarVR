@@ -61,37 +61,18 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EministarVR&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🏆 Trophäen
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EministarVR&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🌟 Interessen
-- 🧱 Minecraft Plugins mit Stil  
-- 🕹️ Games & Mechanics selber bauen  
-- 🌐 Coole Web-UIs und Tools  
-- 🚀 Neue Tech ausprobieren  
-
----
-
-## 📫 Kontakt & Status
-> 💬 **Discord:** `EministarVR`  
-> 📡 Live-Status:  
-<div align="center">
-  <a href="https://discord.com/users/928021462386892830" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/928021462386892830?borderRadius=5px&animated=true&bg=1e1e2f&idleMessage=Just%20chilling..." alt="Discord Status">
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical&hide_border=true" height="165"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EministarVR&layout=compact&theme=radical&hide_border=true" height="165"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-profile-trophy.vercel.app/?username=EministarVR&theme=radical&no-frame=true&margin-w=10"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
