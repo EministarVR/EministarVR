@@ -42,7 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-<img src="https://www.pngaaa.com/png/5338057.png" alt="Spigot" height="40"/>
+<img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="Spigot" height="40"/>
 
 
 </div>
