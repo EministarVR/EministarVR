@@ -87,5 +87,5 @@
 ## So viele waren schon auf meinem Profil <3
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/EministarVR&title=Profile%20Views&edge_flat=false&count_bg=%23B16B91&title_bg=%23000000&icon=github.svg&icon_color=%23ffffff&color=ffffff&title_color=%23ffffff" alt="Profile Views"/>
+  <img src="https://count.getloli.com/@EministarVR?name=EministarVR&theme=minecraft&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile Views"/>
 </div>
