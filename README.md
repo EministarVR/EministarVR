@@ -29,6 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
+<img src="https://iconduck.com/icons/download/20131/cobol/icon.png" alt="COBOL" height="40"/>
 
 
 <br><br>
@@ -41,8 +42,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/spigot.png" alt="Spigot"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/fabric.png" alt="Fabric"/>
+<img src="https://www.pngaaa.com/png/5338057.png" alt="Spigot" height="40"/>
+
 
 </div>
 ---
