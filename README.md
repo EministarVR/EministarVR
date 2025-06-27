@@ -32,6 +32,7 @@
 <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" alt="COBOL" height="40"/>
 
 
+
 <br><br>
 
 <!-- Frameworks & Tools -->
@@ -43,6 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="Spigot" height="40"/>
+<img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" alt="Velocity" height="40"/>
 
 
 </div>
