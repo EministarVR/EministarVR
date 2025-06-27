@@ -1,5 +1,16 @@
 # 👋 Hey, ich bin Nael-Emin Ben Oun (aka **EministarVR**)
 
+
+<div align="center">
+  <a href="https://discord.com/users/928021462386892830" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/928021462386892830?borderRadius=5px&animated=true&bg=273849&showDisplayName=true&animatedDecoration=true&hideSpotify=true&borderRadius=40px&idleMessage=AFK%20for%20a%20bit,%20but%20always%20happy%20to%20connect!" alt="Discord Status">
+  </a>
+</div>
+
+
+
+
+
 🎮 *Minecraft Plugin Developer*  
 💻 *Frontend & Backend Developer*  
 🔧 *Aktiv bei **YukiCraft** als Serverleitung & Developer*
