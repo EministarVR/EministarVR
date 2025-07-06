@@ -20,31 +20,32 @@
 
 <div align="center">
   
-<!-- Sprachen -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-height: 40px;" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-height: 40px;" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-height: 40px;" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-height: 40px;" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-height: 40px;" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="max-height: 40px;" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="max-height: 40px;" alt="Lua"/>
-<img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" style="max-height: 40px;" alt="COBOL"/>
+<!-- 🛠️ Sprachen -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Lua"/>
+  <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" style="height: 40px; width: auto; display: inline-block;" alt="COBOL"/>
+</div>
 
+<br/>
 
-
-<br><br>
-
-<!-- Frameworks & Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="Astro"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-<img src="https://assets.papermc.io/brand/papermc_logo.min.svg" alt="Spigot" height="40"/>
-<img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" alt="Velocity" height="40"/>
-
+<!-- ⚙️ Frameworks & Tools -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-height: 40px;" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-height: 40px;" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="max-height: 40px; background-color: white; border-radius: 6px;" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" style="max-height: 40px;" alt="Astro"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-height: 40px;" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-height: 40px;" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-height: 40px;" alt="VS Code"/>
+  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" style="max-height: 40px;" alt="Spigot"/>
+  <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" style="max-height: 40px;" alt="Velocity"/>
+</div>
 
 </div>
 
