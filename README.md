@@ -16,8 +16,9 @@
 
 ---
 
-# 🛠️ Technologien & Tools
+# 🛠️ Mein Stack & Tools
 
+## 🛠️ Sprachen
 <div align="center">
   
 <!-- 🛠️ Sprachen -->
@@ -34,18 +35,27 @@
 
 <br/>
 
-<!-- ⚙️ Frameworks & Tools -->
+ ## ⚙️ Frameworks & Tools -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-height: 40px;" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-height: 40px;" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="max-height: 40px; background-color: white; border-radius: 6px;" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" style="max-height: 40px;" alt="Astro"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-height: 40px;" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-height: 40px;" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-height: 40px;" alt="VS Code"/>
-  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" style="max-height: 40px;" alt="Spigot"/>
-  <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" style="max-height: 40px;" alt="Velocity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height: 40px; width: auto; display: inline-block; background-color: white; border-radius: 6px;" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Astro"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Electron"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="VS Code"/>
+  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" style="height: 40px; width: auto; display: inline-block;" alt="Spigot"/>
+  <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" style="height: 40px; width: auto; display: inline-block;" alt="Velocity"/>
 </div>
+
 
 </div>
 
