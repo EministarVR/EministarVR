@@ -14,7 +14,7 @@
 💻 *Frontend & Backend Developer*  
 🔧 *Aktiv bei **YukiCraft** als Serverleitung & Developer*
 
----
+
 
 # 🛠️ Mein Stack & Tools
 
