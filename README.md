@@ -34,8 +34,10 @@
 </div>
 
 <br/>
+---
+ ## ⚙️ Frameworks & Tools 
 
- ## ⚙️ Frameworks & Tools -->
+ 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Express.js"/>
