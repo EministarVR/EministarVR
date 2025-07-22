@@ -33,6 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Lua"/>
   <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" style="height: 40px; width: auto; display: inline-block;" alt="COBOL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="C"/>
 </div>
 
 <br/>
