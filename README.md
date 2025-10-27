@@ -16,24 +16,43 @@
 
 
 
-# 🛠️ Mein Stack & Tools
+## 🛠️ Mein Stack & Tools
 
-## 🛠️ Sprachen
+## 💻 Sprachen & Erfahrung
+
+### ❤️ Hauptsprachen
 <div align="center">
-  
-<!-- 🛠️ Sprachen -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Rust"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Python"/>
-  <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" style="height: 40px; width: auto; display: inline-block;" alt="COBOL"/>
-  
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:40px;" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:40px;" alt="TypeScript"/>
 </div>
+
+**Java** ist meine Hauptsprache – hier entwickle ich am meisten (Plugins, Systeme, Tools).  
+**TypeScript** nutze ich regelmäßig im Web-Stack und liebe die klare Struktur.
+
+---
+
+### ⚙️ Weitere Kenntnisse
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px;" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px;" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px;" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height:40px;" alt="Lua"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="height:40px;" alt="Rust"/>
+  <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" style="height:40px;" alt="COBOL"/>
+</div>
+
+- **HTML, CSS, JS:** Standard-Webstack, den ich regelmäßig nutze.  
+- **Python & Lua:** Habe ich mich intensiver eingelesen – war spannend, aber nicht ganz meins.  
+- **Rust:** Mal ausprobiert, aber nicht wirklich warm damit geworden.  
+- **COBOL:** Interessehalber reingeschaut, einfach weil’s nerdig ist 😄  
+
+---
+
+### 🌐 Kurz gesagt
+> Java & TypeScript = mein Zuhause  
+> Der Rest = nice to know  
+
 
 <br/>
 
