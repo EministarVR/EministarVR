@@ -30,7 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Lua"/>
   <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" style="height: 40px; width: auto; display: inline-block;" alt="COBOL"/>
   
   
