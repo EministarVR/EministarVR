@@ -94,9 +94,6 @@
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EministarVR&layout=compact&theme=radical&hide_border=true" height="165"/>
     </td>
-    <td align="center" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=EministarVR&theme=radical&no-frame=true&margin-w=10"/>
-    </td>
   </tr>
 </table>
 
