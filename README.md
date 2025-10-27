@@ -42,6 +42,7 @@
   <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" style="height:40px;" alt="COBOL"/>
 </div>
 
+
 - **HTML, CSS, JS:** Standard-Webstack, den ich regelmäßig nutze.  
 - **Python & Lua:** Habe ich mich intensiver eingelesen – war spannend, aber nicht ganz meins.  
 - **Rust:** Mal ausprobiert, aber nicht wirklich warm damit geworden.  
