@@ -1,4 +1,4 @@
-# 👋 Hey, ich bin Nael-Emin Ben Oun (aka **EministarVR**)
+# 👋 Hey, ich bin Nael-Emin Ben Oun (aka **Eministar**)
 
 
 <div align="center">
