@@ -1,7 +1,5 @@
-## 👋 Nael-Emin Ben Oun — **Eministar** 🚀  
-**Fullstack Developer · Systeme · Game & Web Engineering**  
-
-Ich baue Systeme, die nicht nur laufen – sondern stabil, skalierbar und sauber strukturiert sind.
+## 👋 Nael-Emin Ben Oun — **Eministar**
+**Fullstack Developer   
 
 ---
 
@@ -29,22 +27,8 @@ Ich baue Systeme, die nicht nur laufen – sondern stabil, skalierbar und sauber
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/FiveM-Logo.png/960px-FiveM-Logo.png?_=20230915174323" height="60"/>
 </div>
 
-<p align="center">
-  <b>Minecraft:</b> Plugins, Server-Systeme<br>
-  <b>FiveM:</b> Skripte, Backend-Logik, Discord-Integrationen (Lua)
-</p>
-
 ---
 
-## 🧠 Was ich mache
-
-- ⚙️ Backend-Systeme (Java / Node)
-- 🤖 Discord-Bots & Automatisierungen  
-- 🌐 Web-Tools & Dashboards  
-- 🎮 Game-Server-Systeme (Minecraft & FiveM)
-- 🧩 Strukturierte, modulare Software-Architektur
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Eministar/Eministar/output/snake.svg" alt="Snake animation" />
