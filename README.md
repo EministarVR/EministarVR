@@ -3,10 +3,10 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Programmiersprachen
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,docker,mysql,linux,git&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,lua,rust,html,css&theme=dark&perline=9" />
 </div>
 
 <p align="center">
@@ -14,8 +14,20 @@
   <b>Zusätzlich:</b> TypeScript — APIs, Web & Tools
 </p>
 
+---
+
+## 🛠️ Technologien & Frameworks
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,js,lua,rust,html,css&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,docker,mysql,linux,git&theme=dark&perline=9" />
+</div>
+
+---
+
+## 🧰 Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark&perline=9" />
 </div>
 
 ---
@@ -28,7 +40,6 @@
 </div>
 
 ---
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Eministar/Eministar/output/snake.svg" alt="Snake animation" />
